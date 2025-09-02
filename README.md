@@ -1,2 +1,3 @@
 # trial0
 a trial repository 
+i am learning how to use github for projects...
